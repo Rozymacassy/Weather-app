@@ -63,3 +63,11 @@ sup {
     float: right;
     list-style: none;
 }
+a{
+    padding-right:5px
+}
+
+.link {
+    display: flex;
+    margin: 20px;
+}
