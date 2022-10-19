@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    color: red;
+}
+
+.row {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.search {
+    width: 60%;
+}
+
+.srch {
+    margin: 10px;
+}
+
+.srch-btn {
+    color: white;
+    background-color: blue;
+    border: none;
+    width: 20%;
+    margin: 10px;
+}
+
+.location {
+    width: 100%;
+    list-style: none;
+}
+
+.logo-location {
+    display: flex;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    width: 50%;
+}
+
+.icon {
+    font-size: 100px;
+}
+
+.temperature {
+    font-size: 70px;
+}
+
+sup {
+    font-size: small;
+}
+
+.weather-des {
+    width: 50%;
+    float: right;
+    list-style: none;
+}
